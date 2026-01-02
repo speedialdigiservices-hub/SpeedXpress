@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SpeeDial Express",
+  "description": "Next-generation intelligent logistics and dispatch system featuring real-time AI-optimized routing and a premium customer tracking experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
